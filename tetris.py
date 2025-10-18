@@ -1,7 +1,9 @@
 import pygame
 import random
 
-pygame.init()
+pygame.init
+
+
 
 
 
@@ -207,4 +209,5 @@ while running:
     pygame.display.flip()
 
 pygame.quit()
+
 
