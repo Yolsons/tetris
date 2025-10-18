@@ -3,6 +3,8 @@ import random
 
 pygame.init()
 
+
+
 # Размеры окна и игрового поля
 GRID_SIZE = 30
 COLUMNS, ROWS = 10, 20
@@ -205,3 +207,4 @@ while running:
     pygame.display.flip()
 
 pygame.quit()
+
